@@ -1,8 +1,8 @@
 {  
-    "ID": "1111".
+    "ID": "1111",
     "Summary": "Item is not added to cart",
     "Environment": "Windows 10, Chrome 115.0.5790.171",
-    "Steps to reproduce": " 1.click the "go to the main page 2.click the "add to cart" button on any product",
+    "Steps to reproduce": " 1.click the go to the main page 2.click the 'add to cart' button on any product",
     "Expected result": "The item will be added to your cart",
     "Actuall result": "No products in the cart"
 }
